@@ -1,5 +1,8 @@
 # Data Analytics Portfolio – Karan Mehta
 
+##  About Me
+Entry-level Data Analyst skilled in Python, SQL, and Tableau
+
 ##  Overview
 This repository showcases my data analytics projects involving Python, SQL, and Tableau. The projects focus on solving real-world business problems through data analysis, visualization, and predictive modeling.
 
